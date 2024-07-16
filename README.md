@@ -1,6 +1,7 @@
 # Url structure transformer
 
 - This application transforms URLs into a structured, hierarchical format.
+- It has a caching mechanism implemented to speed up the process of retrieving data from an external API.
 
 # Pre-requisites
 
